@@ -1,0 +1,49 @@
+GitHub එක VS Code එකේ පාවිච්චි කරන හැටි ගැන ඔයාට උදව් කරන්න මට හැකියි!
+
+*GitHub සහ VS Code:*
+
+* *GitHub:* ඔයාගේ කේතය ගබඩා කරන්න, ට්‍රැක් කරන්න, හවුල් කරන්න, සහ වෙනත් අය සමඟ සහයෝගයෙන් වැඩ කරන්න ඔයාට ඉඩ දෙන වෙබ් සේවාවක්.
+* *VS Code:* ඔයාගේ කේතය ලියන්න, එඩිට් කරන්න සහ රන් කරන්න ඔයාට ඉඩ දෙන ජනප්‍රිය කේත සංස්කාරකයක්. 
+
+*VS Code එකේ GitHub එක භාවිතා කරන ආකාරය:*
+
+1. *GitHub ගිණුමක් නිර්මාණය කරන්න (තවම නැත්නම්):* github.com වෙත ගිහින් ගිණුමක් නිර්මාණය කරන්න.
+
+2. *VS Code එකේ GitHub Extensions එකතු කරන්න:*
+   * VS Code එකේ "Extensions" පැනල් එක ඇරලා "GitHub" කියලා සෙව්වම ඔයාට "GitHub Pull Requests and Issues" හා "GitHub" extensions දෙකම හමු වෙයි. ඒ දෙකම ඉන්ස්ටෝල් කරන්න.
+
+3. *VS Code එකට GitHub ගිණුම එකතු කරන්න:*
+   * VS Code එකේ "View" -> "Command Palette" යන්න.
+   * "Sign in to GitHub" කියලා ටයිප් කරන්න සහ එන්ටර් ඔබන්න.
+   * ඔයාගේ GitHub ගිණුමට ලොගින් වෙන්න.
+
+4. *නව Repository එකක් නිර්මාණය කරන්න:*
+   * VS Code එකේ "View" -> "Command Palette" යන්න.
+   * "Git: Create Repository" කියලා ටයිප් කරන්න සහ එන්ටර් ඔබන්න.
+   * ඔයාගේ නව Repository එකේ නම සහ එහි පිහිටි ස්ථානය තෝරන්න.
+
+5. *කේතය ලියන්න:*
+   * VS Code එකේ නව ලිපිගොනක් නිර්මාණය කරලා ඔයාගේ කේතය ලියන්න.
+
+6. *GitHub එකට ඔයාගේ කේතය එකතු කරන්න:*
+   * "Source Control" පැනල් එක ඇරලා "Stage All Changes" බොත්තම ක්ලික් කරන්න.
+   * "Commit" බොත්තම ක්ලික් කරලා ඔයාගේ කේතය සඳහා කෙටි විස්තරයක් ලියන්න.
+   * "Push" බොත්තම ක්ලික් කරලා ඔයාගේ කේතය ඔයාගේ GitHub Repository එකට එකතු කරන්න.
+
+*GitHub එකේ වෙනත් ලක්ෂණ භාවිතා කරන්නේ කොහොමද:*
+
+* *Pull Requests:* VS Code එකේ GitHub Extensions භාවිතා කරලා Pull Requests නිර්මාණය කරන්න, review කරන්න, සහ merge කරන්න.
+* *Issues:* VS Code එකේ GitHub Extensions භාවිතා කරලා Issues නිර්මාණය කරන්න, review කරන්න, සහ close කරන්න.
+* *Branches:* VS Code එකේ "Source Control" පැනල් එක භාවිතා කරලා Branches නිර්මාණය කරන්න, checkout කරන්න, සහ merge කරන්න.
+
+*සටහන්:*
+
+* ඔයාගේ GitHub ගිණුමට VS Code එක ලොගින් වෙන්න ඕනේ, ඒක ඔයාට GitHub එකේ ඔයාගේ repositories හා ඔයාගේ කේතය එහි ගබඩා කරන්න ඉඩ දෙනවා.
+* VS Code එකේ GitHub Extensions ඔයාට ඔයාගේ කේතය ඔයාගේ GitHub ගිණුමට ලේසියෙන් එකතු කරන්න හා GitHub එකේ ලක්ෂණ භාවිතා කරන්න ඉඩ දෙනවා.
+
+*මෙතන සමහර ලින්ක් තියෙනවා ඔයාට තවත් උදව් වෙන්න:*
+
+* [VS Code documentation on GitHub](https://code.visualstudio.com/docs/editor/versioncontrol)
+* [GitHub documentation](https://docs.github.com/)
+
+මේ තොරතුරු ඔයාට උදව් වෙයි කියලා මට බලාපොරොත්තු වෙනවා!
